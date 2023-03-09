@@ -1,4 +1,5 @@
 const data = require('../shared/product-data');
+//changes for api2
 
 module.exports = async function (context, req) {
   try {
